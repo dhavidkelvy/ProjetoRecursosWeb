@@ -23,9 +23,7 @@ div.fundo{
     height: 100%;
     background-image:url(../assets/images/1.jpg);
     background-size: cover;
-
 }
-
 section#conteudo-view{
     position: absolute;
     right: 0;
