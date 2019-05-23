@@ -12,7 +12,7 @@
 
       <section id="conteudo-view" class="login">
         <h1>Recursos</h1>
-        <h3>O nosso gerenciador de recursos</h3>
+        <h3>O nosso gerenciador de reservas</h3>
 
         {!! Form::open(['route'=> 'user.login', 'method'=> 'post']) !!}
 
